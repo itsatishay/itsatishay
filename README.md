@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **itsatishay@gmail.com**
 
-- 📄 Know about my experiences [https://www.itsatishay.com/_files/ugd/15a4f4_718d23f5c95341bfa42b030062148589.pdf)
+- 📄 Know about my experiences [https://www.itsatishay.com/_files/ugd/15a4f4_e4ab4bd267724e609408b5dd07dd26a4.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
