@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **itsatishay@gmail.com**
 
-- 📄 Know about my experiences [https://www.itsatishay.com/_files/ugd/15a4f4_e4ab4bd267724e609408b5dd07dd26a4.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/itsatishay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsatishay" height="30" width="40" /></a>
