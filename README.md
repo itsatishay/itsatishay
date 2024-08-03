@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Squad Map](https://squadmap.page.link/app)
 
-- 🌱 I’m currently learning **react, python, artificial intelligence, deep learning**
-
 - 👨‍💻 All of my projects are available at [https://www.itsatishay.com](https://www.itsatishay.com)
 
 - 💬 Ask me about **flutter, mobile app development, Android/IOS app development, API development**
